@@ -322,10 +322,19 @@ article .icon{
 
 .project-img{
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 60%;
+    height: 40%;
 }
 
+.tttimage{
+    height:50%;
+    width: 64%;
+}
+.ccimage{
+    height: 60%;
+    width: 75.5%;
+    border-radius: 1rem;
+}
 .project-title{
     margin: 1rem;
     color: black;
